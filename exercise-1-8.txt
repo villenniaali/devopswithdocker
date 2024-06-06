@@ -1,0 +1,9 @@
+# Use devopsdockeruh/simple-web-service:alpine as a base image
+FROM devopsdockeruh/simple-web-service:alpine
+
+# Automatically run "server"
+CMD ["server"]
+
+
+# Command used to run the server
+docker run web-server
