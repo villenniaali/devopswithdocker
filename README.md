@@ -1,2 +1,2 @@
 # devopswithdocker
-excercises
+exercises
